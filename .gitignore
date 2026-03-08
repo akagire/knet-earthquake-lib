@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+
+# IDE / OS
+.idea/
+.DS_Store
+*.swp
+
+# Optional: uncomment if you don't want to track pyenv version
+# .python-version
+
+events/*
+!events/.keep
